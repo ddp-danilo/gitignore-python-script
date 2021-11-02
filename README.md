@@ -1,4 +1,4 @@
 # gitignore-python-script
-This python script is used to quickly write filenames and foldernames to the current folder .gitignore.
-Needs Python.
-Usage: On the terminal type(python quickignore.py [filenames]...)
+- This is a Python script used to quickly write filenames or foldernames to the current folder .gitignore.
+- Requires __Python3__
+- Usage: On the terminal type **python quickignore.py 'filename'**
